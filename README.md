@@ -30,17 +30,19 @@ To get a local copy up and running, follow these simple steps.
 Make sure you have Python (version 3.6 or higher) and pip installed on your system.
 
 ### Installation
-```bash
+
 Clone the repository:
-git clone [https://github.com/smusab9152/Machine_Learning_Practicals.git](https://github.com/smusab9152/Machine_Learning_Practicals.git)
-```
 ```bash
+git clone https://github.com/smusab9152/Machine_Learning_Practicals.git
+```
 Navigate to the project directory:
+```bash
 cd Machine_Learning_Practicals
 ```
-```bash
 Install the required libraries:
 It is recommended to create a virtual environment first.
+
+```bash
 pip install -r requirements.txt
 ```
 (Note: You may need to create a requirements.txt file containing the libraries listed below if one is not already present in the repo.)
